@@ -8,9 +8,14 @@
 
 ## 🚀 About Me
 
-I'm currently a Data Analyst Bootcamp student, building my foundations in Python and Git.
+Hi, I'm Agata — transitioning from tourism operations to data.
 
-I'm learning how to apply analytical thinking to data - exploring patterns and understanding how information turns into decisions.
+With several years of experience in the travel and hospitality industry, I’ve worked closely with customers, managed real-world operational challenges and learned how important accurate information is for decision-making.
+
+Now I’m building my skills in Data Analysis (Python, SQL, Git) to move from operational work to analytical thinking - turning real-world business questions into data-driven insights.
+
+I’m particularly interested in Data Quality, process improvement and customer-focused analytics.
+
 
 Based in Spain 🇪🇸  
 Actively learning and growing in the data field.
@@ -22,11 +27,14 @@ Actively learning and growing in the data field.
 - Python (basics, data structures, loops, functions)
 - Git & GitHub
 - Google Sheets
+- VS Code
 - Logical thinking & problem solving
 
 ---
 
 ## 📊 Bootcamp Projects
+
+### [Investigacion de comandos Git](https://github.com/Anais-RV/da-sat-01-atlas-exploracion-datos/blob/main/09-proyecto-grupal/PROYECTO.md)
 
 - Creating and managing repositories
 - Making commits and understanding version control
@@ -39,7 +47,7 @@ Actively learning and growing in the data field.
 
 Small exercises and mini-projects to strengthen programming logic and confidence with code.
 
-More projects coming soon — this is just the beginning 🚀
+More projects coming soon. This is just the beginning 🚀
 
 ---
 
