@@ -1,4 +1,4 @@
-# Hi, I'm Agata 👋
+# <h1 align="center">Hi, I'm Agata 👋</h1>
 
 
 <p align="center">
