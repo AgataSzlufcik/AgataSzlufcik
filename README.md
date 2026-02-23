@@ -68,10 +68,10 @@ More projects coming soon. This is just the beginning 🚀
 
 ---
 
-## 📈 Current Focus
+## 📈 Estadísticas de GitHub
 
-Building strong fundamentals in data analysis and exploring the area of Data Quality and Data Governance.
+![Mis stats](https://github-readme-stats.vercel.app/https://github.com/AgataSzlufcik)
 
-Learning step by step. Improving every day.
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/https://github.com/AgataSzlufcik)
 
 
