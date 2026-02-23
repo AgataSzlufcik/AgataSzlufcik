@@ -8,16 +8,16 @@
 
 ## 🚀 About Me
 
-Hi, I'm Agata — transitioning from tourism operations to data.
+Hi, I'm Agata -transitioning from tourism operations to world of data.
 
 With several years of experience in the travel and hospitality industry, I’ve worked closely with customers, managed real-world operational challenges and learned how important accurate information is for decision-making.
 
-Now I’m building my skills in Data Analysis (Python, SQL, Git) to move from operational work to analytical thinking - turning real-world business questions into data-driven insights.
+Now I’m building my skills in Data Analysis (Python, Git) to move from operational work to analytical thinking - turning real-world business questions into data-driven insights.
 
-I’m particularly interested in Data Quality, process improvement and customer-focused analytics.
+I’m particularly interested in process improvement and customer-focused analytics.
 
 
-Based in Spain 🇪🇸  
+Based in Spain, Asturias 🇪🇸  
 Actively learning and growing in the data field.
 
 ---
@@ -31,6 +31,16 @@ Actively learning and growing in the data field.
 - Logical thinking & problem solving
 
 ---
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+----
 
 ## 📊 Bootcamp Projects
 
@@ -63,4 +73,5 @@ More projects coming soon. This is just the beginning 🚀
 Building strong fundamentals in data analysis and exploring the area of Data Quality and Data Governance.
 
 Learning step by step. Improving every day.
+
 
