@@ -70,8 +70,9 @@ More projects coming soon. This is just the beginning 🚀
 
 ## 📈 Estadísticas de GitHub
 
-![Mis stats](https://github-readme-stats.vercel.app/https://github.com/AgataSzlufcik)
 
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/https://github.com/AgataSzlufcik)
+![Mis stats](https://github-readme-stats.vercel.app/api?username=AgataSzlufcik&show_icons=true&theme=gruvboxgit )
+
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=AgataSzlufcik&layout=compact&theme=gruvbox)
 
 
