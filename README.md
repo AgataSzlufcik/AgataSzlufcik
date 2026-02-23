@@ -18,6 +18,8 @@ I’m particularly interested in process improvement and customer-focused analyt
 
 
 Based in Spain, Asturias 🇪🇸  
+Speaking Polish, English, Spanish and basic Catalan
+
 Actively learning and growing in the data field.
 
 ---
