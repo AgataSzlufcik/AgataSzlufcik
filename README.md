@@ -8,17 +8,18 @@
 
 ## 🚀 About Me
 
-Hi, I'm Agata -transitioning from tourism operations to world of data.
+Hi, I'm Agata - a Data Analyst transitioning from tourism operations into the world of data.
 
-With several years of experience in the travel and hospitality industry, I've worked closely with customers, managed real-world operational challenges and learned how important accurate information is for decision-making.
+With several years of experience in the travel and hospitality industry, I've worked closely with customers, managed real-world operational challenges, and learned how critical accurate information is for effective decision-making.
 
-Now I'm building my skills in Data Analysis (Python, Git) to move from operational work to analytical thinking - turning real-world business questions into data-driven insights.
+I recently completed an intensive 600-hour Data Analyst program at Factoría F5, where I developed hands-on experience in Python, SQL, data analysis, data visualization, machine learning, ETL processes, and business intelligence tools. Through real-world projects, I learned how to transform complex datasets into actionable insights that support better business decisions.
 
-I'm particularly interested in process improvement and customer-focused analytics.
+My background in customer-facing roles gives me a unique perspective when analyzing data: I understand both the numbers and the people behind them.
 
+I'm particularly interested in Customer Analytics, Business Intelligence, process improvement, and data-driven decision-making.
 
-Based in Spain, Asturias 🇪🇸  
-Speaking Polish, English, Spanish and basic Catalan
+📍 Based in Asturias, Spain 🇪🇸
+🗣️ Polish | English | Spanish | Basic Catalan
 
 Actively learning and growing in the data field.
 
@@ -49,28 +50,30 @@ Actively learning and growing in the data field.
 
 ## 📊 Bootcamp Projects
 
-### [Investigacion de comandos Git](https://github.com/Anais-RV/da-sat-01-atlas-exploracion-datos/blob/main/09-proyecto-grupal/PROYECTO.md)
+### [Final Project](https://github.com/AgataSzlufcik/WhereIsMyBook)
 
-- Creating and managing repositories
-- Making commits and understanding version control
-- Working with branches and pull requests
-- Practicing Python fundamentals
+WhereIsMyBook is an AI-powered book discovery platform that helps readers find their next favorite book through emotion-based recommendations. By combining sentiment analysis, machine learning, and user-generated reviews, it delivers a unique and personalized reading journey. 📚✨
+
+---
+### [Palmer Pinguins Project](https://github.com/AgataSzlufcik/Proyecto_Palmer_Penguins)
+
+The purpose of this analysis is to transform raw data into a comprehensive exploratory report that supports evidence-based scientific decision-making. The study focuses on identifying morphological patterns across species and evaluating the quality and reliability of data collection campaigns.
 
 ---
 
-### [Proyecto Grupal Biblioteca](https://github.com/AgataSzlufcik/Proyecto_Grupal_Biblioteca)
+### [Collaborative Library Management Project](https://github.com/AgataSzlufcik/Proyecto_Grupal_Biblioteca)
 
 An international collaborative project focused on exploratory data analysis of a library's operational data over a full year. The analysis covers loan patterns, peak activity periods, most-requested literary genres, and return punctuality — transforming raw operational records into actionable insights to support strategic decision-making in library management.
 
 ---
 
-### [Proyecto Grupal Newton — REST Countries API](https://github.com/AgataSzlufcik/Proyecto-grupal-Newton)
+### [Collaborative Project — REST Countries API](https://github.com/AgataSzlufcik/Proyecto-grupal-Newton)
 
 A group project that automates the extraction, cleaning, and structuring of global data using the public REST Countries API. The workflow converts hierarchical JSON responses into a tabular dataset ready for statistical analysis, including descriptive statistics, data visualizations, geographic groupings, and population density engineering — using libraries such as Pandas, NumPy, Matplotlib, Seaborn, and SQLite3.
 
 ---
 
-### [Ejercicios Bootcamp](https://github.com/AgataSzlufcik/Ejercicios-Bootcamp)
+### [Bootcamp Exercises](https://github.com/AgataSzlufcik/Ejercicios-Bootcamp)
 
 A collection of practical exercises completed throughout the bootcamp, covering HTML, Python programming fundamentals, and data analysis with Pandas and SQL. This repository reflects the day-to-day learning process, from basic scripting to data manipulation and querying.
 
@@ -80,7 +83,7 @@ A collection of practical exercises completed throughout the bootcamp, covering 
 
 Small exercises and mini-projects to strengthen programming logic and confidence with code.
 
-### [Ejercicios Kepler](https://github.com/AgataSzlufcik/Ejercicios_Kepler)
+### [Excercises](https://github.com/AgataSzlufcik/Ejercicios_Kepler)
 
 Focused exercises on data cleaning and preparation: handling null values, duplicates, incorrect formats, and common data quality issues. Includes practical mini-projects such as a loan classifier, category analyzer, data processor, and HTML report generator — with an emphasis on building clean, reliable datasets as the foundation for good analysis.
 
